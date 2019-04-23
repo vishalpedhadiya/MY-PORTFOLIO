@@ -1,0 +1,26 @@
+.about-box {
+    color: #fff;
+    top: 20%;
+    position: absolute;
+    z-index: 1;
+    width: 100%;
+}
+
+.about-detail h1 span {
+    color: #36bdd0;
+}
+
+.about-image p {
+    text-align: center;
+}
+
+.about-detail-header {
+    font-size: 18px;
+    color: #36bdd0;
+    font-weight: 700;
+    padding-bottom: 25px;
+}
+
+.about-detail-header span {
+    font-weight: 400;
+}
